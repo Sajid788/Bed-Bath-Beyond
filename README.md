@@ -47,27 +47,32 @@ This entire journey of making the project was awesome. We have learned lots of t
 
 - ## <span style="color:blue"> Home Page </span>
 
-<img width="377" alt="Home page" src="./IMAGES/HomePage.png">
+<img width="731" alt="Screenshot 2023-12-23 130829" src="https://github.com/Sajid788/Bed-Bath-Beyond/assets/129252454/0a25786a-cc4b-4f12-a9b8-50447e4d6be5">
+
 
  - ## <span style="color:blue"> Login Page</span>
 
- <img width="391" alt="zms footer" src="./IMAGES/L1.png">
+<img width="735" alt="Screenshot 2023-12-23 130749" src="https://github.com/Sajid788/Bed-Bath-Beyond/assets/129252454/744b7098-4cd2-4e07-bc7a-5e6eff20a03d">
+
 
 
 - ## <span style="color:blue"> Product Pages</span>
 
-<img width="400" alt="zms 1" src="./IMAGES/P1.png">
-<img width="400" alt="zms 1" src="./IMAGES/P2.png">
-<img width="400" alt="zms 1" src="./IMAGES/P3.png">
+<img width="727" alt="Screenshot 2023-12-23 130905" src="https://github.com/Sajid788/Bed-Bath-Beyond/assets/129252454/ec6bb594-27bd-4574-84fa-ca14eea88f3c">
+
+<img width="730" alt="Screenshot 2023-12-23 130930" src="https://github.com/Sajid788/Bed-Bath-Beyond/assets/129252454/caeed0cd-0289-487d-a7e5-5abd2a603973">
+
 
 - ## <span style="color:blue"> Cart Page</span>
 
- <img width="391" alt="zms footer" src="./IMAGES/C1.png">
+<img width="729" alt="Screenshot 2023-12-23 130959" src="https://github.com/Sajid788/Bed-Bath-Beyond/assets/129252454/d0ef38a9-5078-41ef-976d-abdf1dbe18d9">
+
 
 
 - ## <span style="color:blue"> Payment Page</span>
 
- <img width="391" alt="zms footer" src="./IMAGES/Pay1.png">
+<img width="728" alt="Screenshot 2023-12-23 131029" src="https://github.com/Sajid788/Bed-Bath-Beyond/assets/129252454/704a330d-73e0-44f6-b0fa-26a8e0c03c70">
+
  
 
 
